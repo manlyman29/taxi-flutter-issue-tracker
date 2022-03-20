@@ -1,1 +1,1 @@
-# Taxi Flutter Issue Tracker
+# Ridy Flutter Issue Tracker
